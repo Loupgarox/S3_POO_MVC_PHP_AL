@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/modele/ModeleObjetDAO.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/controleur/Routeur.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/vue/vueRechercheObjet.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/controleur/ctrlRechercheObjet.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/controleur/ctrlAccueil.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/index.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/vue/vueListeObjets.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/classes/Objet.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/vue/vueResultRecherche.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/vue/vueEntete.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/controleur/ctrlDetailObjet.php</file>
+            <file>file:/B:/wamp64/www/Messier2022Mission2/controleur/ctrlListeObjets.php</file>
+        </group>
+    </open-files>
+</project-private>
