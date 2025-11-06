@@ -22,7 +22,7 @@
             if(!self::$connexion){
                 try {
                     $serveur = 'mysql:host=localhost:3306;';
-                    $bdd = 'dbname=bd_messier';   		
+                    $bdd = 'dbname=messier';   		
                     $user = 'root' ; 
                     $mdp = '' ;
                     
