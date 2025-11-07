@@ -4,7 +4,7 @@
 <div class="row">
     <div class="col-8 mx-auto text-center">
       <h3>Cette page n'existe pas</h3>
-      <img src="images/jumelle.png" alt="Jumelle">
+      <img src="../images/jumelle.png" alt="Jumelle">
     </div>
 <div/>
 
