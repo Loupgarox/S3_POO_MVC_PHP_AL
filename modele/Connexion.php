@@ -21,8 +21,8 @@
         public static function getInstance(){
             if(!self::$connexion){
                 try {
-                    $serveur = 'mysql:host=localhost:3306;';
-                    $bdd = 'dbname=messier';   		
+                    $serveur = 'mysql:host=localhost:3307;';
+                    $bdd = 'dbname=bd_messier';   		
                     $user = 'root' ; 
                     $mdp = '' ;
                     

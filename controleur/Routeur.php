@@ -7,7 +7,8 @@ class Routeur{
         'defaut' => 'ctrlAccueil.php',
         'detail' => 'ctrlDetailObjet.php',
         'recherche' => 'ctrlRechercheObjet.php',        
-        'liste' => 'ctrlListeObjets.php');    
+        'liste' => 'ctrlListeObjets.php',
+        'Apropos' => 'ctrlApropos.php');
     
         
     //Fonction qui retourne le fichier controleur à utiliser

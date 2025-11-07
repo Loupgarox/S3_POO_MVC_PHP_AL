@@ -28,7 +28,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="./?action=recherche&critere=constellation">Recherche par constellation</a>
                 <li class="nav-item">
-                  <a class="nav-link" href="#">A propos</a>
+                  <a class="nav-link" href="./?action=Apropos">A propos</a>
                 </li>                
                 
               </ul>
