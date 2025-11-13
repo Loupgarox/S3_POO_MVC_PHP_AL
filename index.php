@@ -1,4 +1,9 @@
 <?php
+
+  session_start();
+  $_SESSION['login'] = false ;
+  echo $_SESSION['login'];
+
     //Permet de connaitre la racine du projet
     $racine = dirname(__FILE__);
 

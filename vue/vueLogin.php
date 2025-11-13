@@ -3,7 +3,7 @@
       <section>
 		<p><b>Veuillez vous connectez : </b></p>
         <div class="row">
-			<form method="POST" name="frm_Passwd" action="Accueil.php">
+			<form method="POST" name="frm_Passwd" action="ctrlAccueil.php">
 				<p>Login: <input type="text" name="user" value=""></p>
 				
 				<p>Mot de passe: <input type="password" name="pass" value=""></p>
