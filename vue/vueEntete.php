@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 
+<?php
+  session_start();
+  $_SESSION['login'] == false ;
+?>
+
 <html>
     <head>
         <meta charset="UTF-8">
@@ -19,6 +24,11 @@
             <div class="collapse navbar-collapse" id="navbarsExample01">
               <ul class="navbar-nav mr-auto">
 
+              <?php
+                if ($_SESSION['login'] == true)
+                {
+              ?>
+
                 <li class="nav-item">
                   <a class="nav-link" href="./?action=liste&page=1">Liste des objets</a>
                 </li>
@@ -33,8 +43,22 @@
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="./?action=Apropos">A propos</a>
-                </li>                
+                </li>
                 
+                <?php
+                  }
+                    else
+                  {
+                ?>
+                
+                <li class="nav-item">
+                  <a class="nav-link" href="./?action=login">Login</a>
+                </li>
+
+                <?php
+                  }
+                ?>
+
               </ul>
               
             </div>
