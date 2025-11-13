@@ -8,6 +8,7 @@ class Routeur{
         'detail' => 'ctrlDetailObjet.php',
         'recherche' => 'ctrlRechercheObjet.php',        
         'liste' => 'ctrlListeObjets.php',
+        'login' => 'ctrlLogin.php',
         'Apropos' => 'ctrlApropos.php');
     
         
